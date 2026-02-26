@@ -150,7 +150,19 @@
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/__ExternalActors__/NewMap/9/RM/0F53A5EQLRS5JNU3C82R84.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/__ExternalActors__/NewMap/D/QY/1ETCZL36T8LOULTG5FSKJ8.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/__ExternalActors__/NewMap/5/FT/I5IPTC503UZ5480FO15FQ7.uasset",
-				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/NewMap.umap"
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/NewMap.umap",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Level1.umap",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Box_Brush2_Blueprint.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/ClimbLevel1.umap",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Box_Brush2_Blueprint.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/PlayerController_BP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/GMB_Climb.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/GMB_Climb.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Input/IMC_CLIMB.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Models/DummyCharacter_CtrlRig.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/DummyCharacter_ABP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/PlayerController_BP.uasset"
 			]
 		}
 	]
