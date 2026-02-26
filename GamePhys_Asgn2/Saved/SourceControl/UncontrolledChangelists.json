@@ -162,6 +162,11 @@
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Models/DummyCharacter_CtrlRig.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/DummyCharacter_ABP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Joints/Linear_Joint_BP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Joints/Hinge_Joint_BP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Hand_BP.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Input/LeftHand.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Input/RightHand.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/PlayerController_BP.uasset"
 			]
 		}
