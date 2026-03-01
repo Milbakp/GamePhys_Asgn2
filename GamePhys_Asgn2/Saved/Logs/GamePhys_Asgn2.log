@@ -4094,3 +4094,1425 @@ Sampler Limit: 32
 [2026.03.01-04.02.15:455][121]AssetCheck: /Game/BluePrints/GMB_Climb Validating asset
 [2026.03.01-04.02.15:455][121]AssetCheck: /Game/BluePrints/Joints/Hinge_Joint_BP Validating asset
 [2026.03.01-04.02.15:456][121]AssetCheck: /Game/BluePrints/Win_UI Validating asset
+[2026.03.01-04.05.33:764][886]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11157.156250
+[2026.03.01-04.05.34:099][906]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.05.34:099][906]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11157.473633, Update Interval: 326.003601
+[2026.03.01-04.08.54:249][255]Cmd: DELETE
+[2026.03.01-04.08.54:249][255]Cmd: ACTOR DELETE
+[2026.03.01-04.08.54:252][255]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.01-04.08.54:285][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.01-04.08.54:291][255]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2026.03.01-04.08.57:997][477]Cmd: TRANSACTION UNDO
+[2026.03.01-04.08.57:997][477]LogEditorTransaction: Undo Delete Elements
+[2026.03.01-04.09.16:280][518]Cmd: EDIT COPY
+[2026.03.01-04.09.16:838][551]Cmd: EDIT PASTE
+[2026.03.01-04.09.24:282][987]Cmd: DELETE
+[2026.03.01-04.09.24:282][987]Cmd: ACTOR DELETE
+[2026.03.01-04.09.24:285][987]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.03.01-04.09.24:313][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2026.03.01-04.09.24:321][987]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2026.03.01-04.09.33:243][515]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-04.09.33:329][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestClimb" FILE="../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.01-04.09.33:373][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2026.03.01-04.09.33:389][515]LogSavePackage: Moving output files for package: /Game/TestClimb
+[2026.03.01-04.09.33:389][515]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TestClimb2574466946A689E8A0EA459B7860D296.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap'
+[2026.03.01-04.09.33:397][515]LogFileHelpers: Saving map 'TestClimb' took 0.069
+[2026.03.01-04.09.33:411][515]LogFileHelpers: InternalPromptForCheckoutAndSave took 168.526 ms (total: 1.66 sec)
+[2026.03.01-04.09.33:488][515]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.01-04.09.33:488][515]LogContentValidation: Enabled validators:
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-04.09.33:488][515]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-04.09.33:488][515]AssetCheck: /Game/TestClimb Validating asset
+[2026.03.01-04.11.35:996][419]LogSlate: Window 'Pick Parent Class' being destroyed
+[2026.03.01-04.11.36:006][419]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2026.03.01-04.11.36:015][419]LogContentBrowser: Creating deferred item: NewBlueprint
+[2026.03.01-04.11.36:022][419]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11519.297852
+[2026.03.01-04.11.36:034][420]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2026.03.01-04.11.36:408][438]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.11.36:408][438]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11519.665039, Update Interval: 356.233398
+[2026.03.01-04.11.50:636][289]LogContentBrowser: Attempting asset rename: NewBlueprint -> BreakableWall
+[2026.03.01-04.11.50:644][289]LogContentBrowser: End creating deferred item NewBlueprint
+[2026.03.01-04.12.06:841][662]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BluePrints/BreakableWall.BreakableWall
+[2026.03.01-04.12.06:841][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_33
+[2026.03.01-04.12.16:407][195]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_34
+[2026.03.01-04.13.06:946][165]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2026.03.01-04.17.29:764][410]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.01-04.17.32:932][586]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.17.32:938][586]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.17.32:938][586]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.17.32:942][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003068s)
+[2026.03.01-04.17.32:942][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003108s)
+[2026.03.01-04.17.32:968][586]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2026.03.01-04.17.32:972][586]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.17.32:973][586]LogPlayLevel: PIE: World Init took: (0.001846s)
+[2026.03.01-04.17.32:974][586]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.17.32:974][586]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.17.32:974][586]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.17.32:974][586]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.17.32:974][586]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.17.32:974][586]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.17.32:976][586]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.17.32:991][586]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.17.32:991][586]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.17.32:991][586]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.17.32:991][586]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.17.32:992][586]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=41
+[2026.03.01-04.17.32:992][586]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=41
+[2026.03.01-04.17.32:993][586]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=41
+[2026.03.01-04.17.32:993][586]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=41
+[2026.03.01-04.17.32:993][586]LogInit: FAudioDevice initialized with ID 41.
+[2026.03.01-04.17.32:993][586]LogAudio: Display: Audio Device (ID: 41) registered with world 'TestClimb'.
+[2026.03.01-04.17.32:994][586]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.01-04.17.32:997][586]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.17.32:999][586]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.17.32
+[2026.03.01-04.17.32:999][586]LogWorld: Bringing up level for play took: 0.001496
+[2026.03.01-04.17.33:001][586]LogOnline: OSS: Created online subsystem instance for: :Context_59
+[2026.03.01-04.17.33:005][586]PIE: Server logged in
+[2026.03.01-04.17.33:007][586]PIE: Play in editor total start time 0.069 seconds.
+[2026.03.01-04.17.33:048][587]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.17.37:499][852]LogBlueprintUserMessages: [TriggerOrb_C_5] Destroy
+[2026.03.01-04.17.48:926][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.17.48:926][536]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.17.48:926][536]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.17.48:926][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.17.48:927][536]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.17.48:933][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.17.48:958][536]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.17.48:958][536]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 41
+[2026.03.01-04.17.48:958][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=4
+[2026.03.01-04.17.48:961][536]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=41, StreamState=2
+[2026.03.01-04.17.48:965][536]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.17.48:967][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.01-04.17.49:010][538]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2026.03.01-04.17.49:474][566]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.17.49:480][566]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.17.49:481][566]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.17.49:484][566]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002974s)
+[2026.03.01-04.17.49:484][566]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003009s)
+[2026.03.01-04.17.49:509][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.01-04.17.49:512][566]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.17.49:514][566]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2026.03.01-04.17.49:514][566]LogAudio: Display: Creating Audio Device:                 Id: 42, Scope: Unique, Realtime: True
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.17.49:514][566]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.17.49:514][566]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.17.49:514][566]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.17.49:514][566]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.17.49:514][566]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.17.49:516][566]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.17.49:530][566]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.17.49:530][566]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.17.49:530][566]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.17.49:530][566]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.17.49:531][566]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=42
+[2026.03.01-04.17.49:531][566]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=42
+[2026.03.01-04.17.49:532][566]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=42
+[2026.03.01-04.17.49:533][566]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=42
+[2026.03.01-04.17.49:533][566]LogInit: FAudioDevice initialized with ID 42.
+[2026.03.01-04.17.49:533][566]LogAudio: Display: Audio Device (ID: 42) registered with world 'TestClimb'.
+[2026.03.01-04.17.49:533][566]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.01-04.17.49:536][566]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.17.49:537][566]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.17.49
+[2026.03.01-04.17.49:537][566]LogWorld: Bringing up level for play took: 0.001293
+[2026.03.01-04.17.49:539][566]LogOnline: OSS: Created online subsystem instance for: :Context_60
+[2026.03.01-04.17.49:542][566]PIE: Server logged in
+[2026.03.01-04.17.49:544][566]PIE: Play in editor total start time 0.064 seconds.
+[2026.03.01-04.17.49:582][567]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.18.07:418][635]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 11910.646484
+[2026.03.01-04.18.07:752][655]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.18.07:752][655]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 11910.964844, Update Interval: 350.417786
+[2026.03.01-04.18.12:805][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.18.12:805][955]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.18.12:805][955]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.18.12:806][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.18.12:807][955]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.18.12:812][955]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.18.12:837][955]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.18.12:837][955]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 42
+[2026.03.01-04.18.12:837][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=4
+[2026.03.01-04.18.12:839][955]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=42, StreamState=2
+[2026.03.01-04.18.12:844][955]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.01-04.18.12:919][957]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2026.03.01-04.18.49:871][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.01-04.20.39:764][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.01-04.20.42:656][411]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.20.42:662][411]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.20.42:695][411]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.20.42:698][411]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002987s)
+[2026.03.01-04.20.42:698][411]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003032s)
+[2026.03.01-04.20.42:723][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.01-04.20.42:728][411]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.20.42:730][411]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2026.03.01-04.20.42:731][411]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.20.42:731][411]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.20.42:731][411]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.20.42:731][411]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.20.42:731][411]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.20.42:731][411]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.20.42:733][411]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.20.42:747][411]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.20.42:747][411]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.20.42:747][411]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.20.42:747][411]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.20.42:747][411]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2026.03.01-04.20.42:747][411]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2026.03.01-04.20.42:749][411]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2026.03.01-04.20.42:749][411]LogInit: FAudioDevice initialized with ID 43.
+[2026.03.01-04.20.42:749][411]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2026.03.01-04.20.42:749][411]LogAudio: Display: Audio Device (ID: 43) registered with world 'TestClimb'.
+[2026.03.01-04.20.42:749][411]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.01-04.20.42:753][411]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.20.42:754][411]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.20.42
+[2026.03.01-04.20.42:754][411]LogWorld: Bringing up level for play took: 0.001191
+[2026.03.01-04.20.42:756][411]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2026.03.01-04.20.42:758][411]PIE: Server logged in
+[2026.03.01-04.20.42:761][411]PIE: Play in editor total start time 0.098 seconds.
+[2026.03.01-04.20.42:799][412]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.20.43:647][461]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.44:647][521]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.45:646][581]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.46:646][641]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.47:647][701]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.48:647][761]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.49:647][821]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.50:647][881]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.51:648][941]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.52:647][  1]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.53:648][ 61]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.54:648][121]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.55:648][181]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.56:662][222]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.57:664][282]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.58:664][342]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.20.59:664][402]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.00:665][462]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.01:665][522]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.02:669][582]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.03:669][642]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.04:670][702]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.05:685][762]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.06:697][822]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.07:699][880]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.08:705][935]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.09:714][994]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.10:722][ 54]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.11:730][110]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.12:738][165]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.13:738][225]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.14:749][285]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.15:750][345]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.16:750][405]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.17:751][465]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.18:753][525]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.19:758][585]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.20:758][645]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.21:759][705]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.22:759][765]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.23:759][825]LogBlueprintUserMessages: [Hinge_Joint_BP_C_1] Hello
+[2026.03.01-04.21.24:775][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.21.24:775][884]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.21.24:776][884]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.21.24:776][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.21.24:777][884]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.21.24:783][884]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.21.24:809][884]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.21.24:809][884]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 43
+[2026.03.01-04.21.24:809][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=4
+[2026.03.01-04.21.24:811][884]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43, StreamState=2
+[2026.03.01-04.21.24:814][884]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.21.24:817][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2026.03.01-04.21.24:844][885]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2026.03.01-04.21.50:719][404]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.01-04.22.36:741][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2026.03.01-04.22.36:744][ 72]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestClimb' took 0.029
+[2026.03.01-04.22.36:744][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Joints/Hinge_Joint_BP] ([2] browsable assets)...
+[2026.03.01-04.22.36:781][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Joints/Hinge_Joint_BP.Hinge_Joint_BP]
+[2026.03.01-04.22.36:781][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Joints/Hinge_Joint_BP]
+[2026.03.01-04.22.36:801][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Joints/Hinge_Joint_BP_Auto8
+[2026.03.01-04.22.36:802][ 72]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Hinge_Joint_BP_Auto86490999A47D70A1C1F590599404E1A7B.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/Joints/Hinge_Joint_BP_Auto8.uasset'
+[2026.03.01-04.22.36:803][ 72]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/BreakableWall] ([2] browsable assets)...
+[2026.03.01-04.22.36:808][ 72]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BreakableWall.BreakableWall]
+[2026.03.01-04.22.36:808][ 72]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BreakableWall]
+[2026.03.01-04.22.36:811][ 72]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/BreakableWall_Auto8
+[2026.03.01-04.22.36:811][ 72]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/BreakableWall_Auto8CE319BBD477E1F9D295429918FCEE7DD.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/BreakableWall_Auto8.uasset'
+[2026.03.01-04.22.36:812][ 72]LogFileHelpers: Auto-saving content packages took 0.068
+[2026.03.01-04.24.50:158][904]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12313.322266
+[2026.03.01-04.24.50:500][924]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.24.50:500][924]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12313.645508, Update Interval: 310.543549
+[2026.03.01-04.30.32:542][ 58]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 12655.664062
+[2026.03.01-04.30.32:908][ 80]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.30.32:908][ 81]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 12656.016602, Update Interval: 331.524414
+[2026.03.01-04.30.36:260][275]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2026.03.01-04.30.44:762][765]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BreakableWall.BreakableWall_C
+[2026.03.01-04.30.44:762][765]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BreakableWall.BreakableWall_C
+[2026.03.01-04.30.44:764][765]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BreakableWall.BreakableWall as actor: BreakableWall_C /Game/TestClimb.TestClimb:PersistentLevel.BreakableWall_C_0
+[2026.03.01-04.30.44:765][765]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BreakableWall.BreakableWall as actor: BreakableWall_C /Game/TestClimb.TestClimb:PersistentLevel.BreakableWall_C_0
+[2026.03.01-04.30.44:770][765]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.03.01-04.30.47:909][952]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.01-04.30.47:914][952]LogEditorActor: Deleted 0 Actors (0.030 secs)
+[2026.03.01-04.30.47:921][952]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BreakableWall.BreakableWall_C
+[2026.03.01-04.30.47:921][952]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BluePrints/BreakableWall.BreakableWall_C
+[2026.03.01-04.30.47:923][952]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BreakableWall.BreakableWall as actor: BreakableWall_C /Game/TestClimb.TestClimb:PersistentLevel.BreakableWall_C_1
+[2026.03.01-04.30.47:924][952]LogActorFactory: Actor Factory spawned Blueprint /Game/BluePrints/BreakableWall.BreakableWall as actor: BreakableWall_C /Game/TestClimb.TestClimb:PersistentLevel.BreakableWall_C_1
+[2026.03.01-04.30.49:559][ 46]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.30.49:578][ 46]LogPlayLevel: [PlayLevel] Compiling TriggerOrb before play...
+[2026.03.01-04.30.49:649][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.01-04.30.49:654][ 46]LogPlayLevel: PlayLevel: Blueprint regeneration took 84 ms (1 blueprints)
+[2026.03.01-04.30.49:695][ 46]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.30.49:698][ 46]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003596s)
+[2026.03.01-04.30.49:698][ 46]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003651s)
+[2026.03.01-04.30.49:723][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.01-04.30.49:728][ 46]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.30.49:729][ 46]LogPlayLevel: PIE: World Init took: (0.001981s)
+[2026.03.01-04.30.49:730][ 46]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.30.49:730][ 46]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.30.49:730][ 46]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.30.49:730][ 46]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.30.49:730][ 46]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.30.49:730][ 46]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.30.49:732][ 46]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.30.49:749][ 46]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.30.49:749][ 46]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.30.49:749][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.30.49:749][ 46]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.30.49:750][ 46]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2026.03.01-04.30.49:750][ 46]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2026.03.01-04.30.49:751][ 46]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2026.03.01-04.30.49:751][ 46]LogInit: FAudioDevice initialized with ID 44.
+[2026.03.01-04.30.49:751][ 46]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2026.03.01-04.30.49:751][ 46]LogAudio: Display: Audio Device (ID: 44) registered with world 'TestClimb'.
+[2026.03.01-04.30.49:752][ 46]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.01-04.30.49:756][ 46]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.30.49:758][ 46]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.30.49
+[2026.03.01-04.30.49:758][ 46]LogWorld: Bringing up level for play took: 0.001668
+[2026.03.01-04.30.49:760][ 46]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2026.03.01-04.30.49:764][ 46]PIE: Server logged in
+[2026.03.01-04.30.49:766][ 46]PIE: Play in editor total start time 0.201 seconds.
+[2026.03.01-04.30.49:813][ 47]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.30.51:695][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.30.51:695][153]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.30.51:695][153]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.30.51:695][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.30.51:698][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.30.51:702][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.30.51:730][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.30.51:730][153]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2026.03.01-04.30.51:730][153]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=4
+[2026.03.01-04.30.51:732][153]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44, StreamState=2
+[2026.03.01-04.30.51:737][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.01-04.30.51:795][154]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2026.03.01-04.31.10:567][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.01-04.31.12:792][354]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.31.12:799][354]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.31.12:799][354]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.31.12:803][354]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003656s)
+[2026.03.01-04.31.12:803][354]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003689s)
+[2026.03.01-04.31.12:829][354]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.01-04.31.12:836][354]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.31.12:838][354]LogPlayLevel: PIE: World Init took: (0.001832s)
+[2026.03.01-04.31.12:839][354]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.31.12:839][354]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.31.12:839][354]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.31.12:839][354]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.31.12:839][354]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.31.12:839][354]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.31.12:841][354]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.31.12:855][354]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.31.12:855][354]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.31.12:855][354]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.31.12:855][354]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.31.12:856][354]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2026.03.01-04.31.12:856][354]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2026.03.01-04.31.12:857][354]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2026.03.01-04.31.12:857][354]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2026.03.01-04.31.12:857][354]LogInit: FAudioDevice initialized with ID 45.
+[2026.03.01-04.31.12:857][354]LogAudio: Display: Audio Device (ID: 45) registered with world 'TestClimb'.
+[2026.03.01-04.31.12:857][354]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.01-04.31.12:861][354]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.31.12:863][354]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.31.12
+[2026.03.01-04.31.12:864][354]LogWorld: Bringing up level for play took: 0.001346
+[2026.03.01-04.31.12:865][354]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2026.03.01-04.31.12:868][354]PIE: Server logged in
+[2026.03.01-04.31.12:871][354]PIE: Play in editor total start time 0.072 seconds.
+[2026.03.01-04.31.12:912][355]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.31.16:444][565]LogScript: Warning: Accessed None trying to read (real) property K2Node_DynamicCast_AsHinge_Joint_BP in not an UClass
+	BreakableWall_C /Game/UEDPIE_0_TestClimb.TestClimb:PersistentLevel.BreakableWall_C_1
+	Function /Game/BluePrints/BreakableWall.BreakableWall_C:ExecuteUbergraph_BreakableWall:00A0
+[2026.03.01-04.31.16:444][565]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property K2Node_DynamicCast_AsHinge_Joint_BP in not an UClass". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Breakable Wall Blueprint:  BreakableWall
+[2026.03.01-04.31.27:515][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.31.27:515][226]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.31.27:515][226]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.31.27:515][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.31.27:518][226]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.31.27:522][226]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.31.27:549][226]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.31.27:549][226]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2026.03.01-04.31.27:549][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=4
+[2026.03.01-04.31.27:551][226]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45, StreamState=2
+[2026.03.01-04.31.27:557][226]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.01-04.31.27:785][227]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2026.03.01-04.33.34:271][529]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2026.03.01-04.33.38:544][772]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.33.38:552][772]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.33.38:552][772]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.33.38:555][772]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002955s)
+[2026.03.01-04.33.38:555][772]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.002991s)
+[2026.03.01-04.33.38:580][772]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.01-04.33.38:586][772]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.33.38:588][772]LogPlayLevel: PIE: World Init took: (0.001822s)
+[2026.03.01-04.33.38:588][772]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.33.38:588][772]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.33.38:589][772]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.33.38:589][772]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.33.38:589][772]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.33.38:589][772]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.33.38:590][772]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.33.38:605][772]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.33.38:605][772]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.33.38:605][772]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.33.38:606][772]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.33.38:606][772]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2026.03.01-04.33.38:607][772]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2026.03.01-04.33.38:608][772]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2026.03.01-04.33.38:608][772]LogInit: FAudioDevice initialized with ID 46.
+[2026.03.01-04.33.38:608][772]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2026.03.01-04.33.38:608][772]LogAudio: Display: Audio Device (ID: 46) registered with world 'TestClimb'.
+[2026.03.01-04.33.38:608][772]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.01-04.33.38:612][772]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.33.38:614][772]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.33.38
+[2026.03.01-04.33.38:614][772]LogWorld: Bringing up level for play took: 0.001373
+[2026.03.01-04.33.38:616][772]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2026.03.01-04.33.38:619][772]PIE: Server logged in
+[2026.03.01-04.33.38:621][772]PIE: Play in editor total start time 0.069 seconds.
+[2026.03.01-04.33.38:661][773]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.33.41:828][961]LogScript: Warning: Accessed None trying to read (real) property K2Node_DynamicCast_AsHinge_Joint_BP in not an UClass
+	BreakableWall_C /Game/UEDPIE_0_TestClimb.TestClimb:PersistentLevel.BreakableWall_C_1
+	Function /Game/BluePrints/BreakableWall.BreakableWall_C:ExecuteUbergraph_BreakableWall:012B
+[2026.03.01-04.33.41:828][961]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read (real) property K2Node_DynamicCast_AsHinge_Joint_BP in not an UClass". Node:  Branch Graph:  EventGraph Function:  Execute Ubergraph Breakable Wall Blueprint:  BreakableWall
+[2026.03.01-04.33.41:828][961]LogBlueprintUserMessages: [BreakableWall_C_1] Succed
+[2026.03.01-04.33.43:029][ 33]LogBlueprintUserMessages: [BreakableWall_C_1] Succed
+[2026.03.01-04.33.44:128][ 99]LogBlueprintUserMessages: [BreakableWall_C_1] Succed
+[2026.03.01-04.33.47:746][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.33.47:746][312]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.33.47:746][312]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.33.47:746][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.33.47:751][312]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.33.47:756][312]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.33.47:782][312]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.33.47:782][312]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2026.03.01-04.33.47:782][312]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=4
+[2026.03.01-04.33.47:784][312]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46, StreamState=2
+[2026.03.01-04.33.47:791][312]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.01-04.33.47:922][313]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2026.03.01-04.33.49:347][391]LogSlate: Window 'Message Log' being destroyed
+[2026.03.01-04.33.49:352][391]LogSlate: Window 'Message Log' being destroyed
+[2026.03.01-04.35.01:268][481]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.01-04.35.01:284][481]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestClimb_Auto9
+[2026.03.01-04.35.01:284][481]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TestClimb_Auto98599807441769B93DF9C62BED462E08A.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/TestClimb_Auto9.umap'
+[2026.03.01-04.35.01:285][481]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestClimb' took 0.046
+[2026.03.01-04.35.01:285][481]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.046
+[2026.03.01-04.35.01:285][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/TriggerOrb] ([2] browsable assets)...
+[2026.03.01-04.35.01:324][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/TriggerOrb.TriggerOrb]
+[2026.03.01-04.35.01:324][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/TriggerOrb]
+[2026.03.01-04.35.01:335][481]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/TriggerOrb_Auto9
+[2026.03.01-04.35.01:335][481]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TriggerOrb_Auto9E638FCB44910AB202FA6E788023A8CBC.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/TriggerOrb_Auto9.uasset'
+[2026.03.01-04.35.01:335][481]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/BreakableWall] ([2] browsable assets)...
+[2026.03.01-04.35.01:342][481]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BreakableWall.BreakableWall]
+[2026.03.01-04.35.01:342][481]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BreakableWall]
+[2026.03.01-04.35.01:349][481]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/BreakableWall_Auto9
+[2026.03.01-04.35.01:349][481]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/BreakableWall_Auto9414785484B04254ED31B83AE5EBD3039.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/BreakableWall_Auto9.uasset'
+[2026.03.01-04.35.01:349][481]LogFileHelpers: Auto-saving content packages took 0.064
+[2026.03.01-04.36.58:380][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13041.523438
+[2026.03.01-04.36.58:750][119]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.36.58:750][119]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13041.875977, Update Interval: 343.884399
+[2026.03.01-04.41.49:845][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2026.03.01-04.42.05:375][925]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.42.05:382][925]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.42.05:404][925]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.42.05:409][925]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004535s)
+[2026.03.01-04.42.05:409][925]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.004600s)
+[2026.03.01-04.42.05:435][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.01-04.42.05:441][925]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.42.05:444][925]LogPlayLevel: PIE: World Init took: (0.002025s)
+[2026.03.01-04.42.05:444][925]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.42.05:444][925]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.42.05:444][925]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.42.05:444][925]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.42.05:444][925]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.42.05:444][925]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.42.05:446][925]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.42.05:462][925]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.42.05:462][925]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.42.05:462][925]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.42.05:462][925]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.42.05:464][925]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2026.03.01-04.42.05:464][925]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2026.03.01-04.42.05:465][925]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2026.03.01-04.42.05:465][925]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2026.03.01-04.42.05:465][925]LogInit: FAudioDevice initialized with ID 47.
+[2026.03.01-04.42.05:465][925]LogAudio: Display: Audio Device (ID: 47) registered with world 'TestClimb'.
+[2026.03.01-04.42.05:465][925]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.01-04.42.05:470][925]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.42.05:471][925]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.42.05
+[2026.03.01-04.42.05:471][925]LogWorld: Bringing up level for play took: 0.001423
+[2026.03.01-04.42.05:473][925]LogOnline: OSS: Created online subsystem instance for: :Context_65
+[2026.03.01-04.42.05:476][925]PIE: Server logged in
+[2026.03.01-04.42.05:478][925]PIE: Play in editor total start time 0.098 seconds.
+[2026.03.01-04.42.05:522][926]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.42.13:025][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.42.13:025][372]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.42.13:025][372]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.42.13:026][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.42.13:029][372]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.42.13:034][372]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.42.13:061][372]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.42.13:061][372]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2026.03.01-04.42.13:061][372]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=4
+[2026.03.01-04.42.13:063][372]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47, StreamState=2
+[2026.03.01-04.42.13:066][372]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.42.13:069][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2026.03.01-04.42.13:124][373]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2026.03.01-04.42.20:610][794]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.01-04.42.22:737][911]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.42.22:744][911]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.42.22:764][911]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.42.22:767][911]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003516s)
+[2026.03.01-04.42.22:767][911]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003563s)
+[2026.03.01-04.42.22:794][911]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.01-04.42.22:800][911]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.42.22:802][911]LogPlayLevel: PIE: World Init took: (0.001899s)
+[2026.03.01-04.42.22:802][911]LogAudio: Display: Creating Audio Device:                 Id: 48, Scope: Unique, Realtime: True
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.42.22:802][911]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.42.22:802][911]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.42.22:802][911]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.42.22:802][911]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.42.22:802][911]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.42.22:805][911]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.42.22:820][911]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.42.22:820][911]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.42.22:821][911]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.42.22:821][911]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.42.22:821][911]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=48
+[2026.03.01-04.42.22:821][911]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=48
+[2026.03.01-04.42.22:822][911]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=48
+[2026.03.01-04.42.22:822][911]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=48
+[2026.03.01-04.42.22:822][911]LogInit: FAudioDevice initialized with ID 48.
+[2026.03.01-04.42.22:822][911]LogAudio: Display: Audio Device (ID: 48) registered with world 'TestClimb'.
+[2026.03.01-04.42.22:822][911]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.01-04.42.22:827][911]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.42.22:829][911]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.42.22
+[2026.03.01-04.42.22:829][911]LogWorld: Bringing up level for play took: 0.001390
+[2026.03.01-04.42.22:831][911]LogOnline: OSS: Created online subsystem instance for: :Context_66
+[2026.03.01-04.42.22:834][911]PIE: Server logged in
+[2026.03.01-04.42.22:835][911]PIE: Play in editor total start time 0.092 seconds.
+[2026.03.01-04.42.22:877][912]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.42.44:554][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.42.44:555][209]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.42.44:555][209]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.42.44:555][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.42.44:557][209]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.42.44:562][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.42.44:585][209]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.42.44:585][209]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 48
+[2026.03.01-04.42.44:585][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=4
+[2026.03.01-04.42.44:587][209]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=48, StreamState=2
+[2026.03.01-04.42.44:591][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.42.44:593][209]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.01-04.42.44:652][210]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2026.03.01-04.42.48:428][435]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.42.48:436][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.42.48:475][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.42.48:478][435]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003249s)
+[2026.03.01-04.42.48:478][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003296s)
+[2026.03.01-04.42.48:503][435]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2026.03.01-04.42.48:506][435]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.42.48:508][435]LogPlayLevel: PIE: World Init took: (0.001636s)
+[2026.03.01-04.42.48:509][435]LogAudio: Display: Creating Audio Device:                 Id: 49, Scope: Unique, Realtime: True
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.42.48:509][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.42.48:509][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.42.48:509][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.42.48:509][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.42.48:509][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.42.48:511][435]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.42.48:526][435]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.42.48:526][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.42.48:526][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.42.48:526][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.42.48:526][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=49
+[2026.03.01-04.42.48:526][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=49
+[2026.03.01-04.42.48:528][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=49
+[2026.03.01-04.42.48:528][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=49
+[2026.03.01-04.42.48:528][435]LogInit: FAudioDevice initialized with ID 49.
+[2026.03.01-04.42.48:528][435]LogAudio: Display: Audio Device (ID: 49) registered with world 'TestClimb'.
+[2026.03.01-04.42.48:528][435]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 49
+[2026.03.01-04.42.48:532][435]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.42.48:534][435]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.42.48
+[2026.03.01-04.42.48:534][435]LogWorld: Bringing up level for play took: 0.001371
+[2026.03.01-04.42.48:536][435]LogOnline: OSS: Created online subsystem instance for: :Context_67
+[2026.03.01-04.42.48:539][435]PIE: Server logged in
+[2026.03.01-04.42.48:541][435]PIE: Play in editor total start time 0.105 seconds.
+[2026.03.01-04.42.48:582][436]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.43.05:535][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.05:535][449]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.43.05:535][449]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.43.05:536][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.05:538][449]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.43.05:543][449]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.05:571][449]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.05:572][449]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 49
+[2026.03.01-04.43.05:572][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=4
+[2026.03.01-04.43.05:574][449]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=49, StreamState=2
+[2026.03.01-04.43.05:581][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.01-04.43.05:647][450]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2026.03.01-04.43.13:669][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2026.03.01-04.43.21:902][384]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13424.938477
+[2026.03.01-04.43.22:201][402]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.43.22:201][402]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13425.222656, Update Interval: 336.301758
+[2026.03.01-04.43.30:823][918]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.43.30:831][918]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.43.30:832][918]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.43.30:834][918]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003379s)
+[2026.03.01-04.43.30:834][918]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003414s)
+[2026.03.01-04.43.30:864][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.01-04.43.30:871][918]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.43.30:873][918]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2026.03.01-04.43.30:873][918]LogAudio: Display: Creating Audio Device:                 Id: 50, Scope: Unique, Realtime: True
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.43.30:873][918]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.43.30:873][918]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.43.30:873][918]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.43.30:873][918]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.43.30:873][918]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.43.30:875][918]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.43.30:891][918]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.43.30:891][918]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.43.30:891][918]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.43.30:891][918]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.43.30:892][918]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=50
+[2026.03.01-04.43.30:892][918]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=50
+[2026.03.01-04.43.30:895][918]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=50
+[2026.03.01-04.43.30:895][918]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=50
+[2026.03.01-04.43.30:895][918]LogInit: FAudioDevice initialized with ID 50.
+[2026.03.01-04.43.30:895][918]LogAudio: Display: Audio Device (ID: 50) registered with world 'TestClimb'.
+[2026.03.01-04.43.30:895][918]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 50
+[2026.03.01-04.43.30:900][918]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.43.30:902][918]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.43.30
+[2026.03.01-04.43.30:902][918]LogWorld: Bringing up level for play took: 0.001524
+[2026.03.01-04.43.30:904][918]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2026.03.01-04.43.30:907][918]PIE: Server logged in
+[2026.03.01-04.43.30:909][918]PIE: Play in editor total start time 0.078 seconds.
+[2026.03.01-04.43.30:988][919]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.43.39:910][451]LogBlueprintUserMessages: [TriggerOrb_C_5] Hello
+[2026.03.01-04.43.42:329][596]LogBlueprintUserMessages: [TriggerOrb_C_5] Destroy
+[2026.03.01-04.43.45:125][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.45:125][762]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.43.45:125][762]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.43.45:125][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.45:127][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.43.45:132][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.45:157][762]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.43.45:157][762]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 50
+[2026.03.01-04.43.45:157][762]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=4
+[2026.03.01-04.43.45:159][762]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=50, StreamState=2
+[2026.03.01-04.43.45:162][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.45:164][762]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.01-04.43.45:216][763]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2026.03.01-04.43.48:424][950]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.43.48:431][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.43.48:431][950]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.43.48:435][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003412s)
+[2026.03.01-04.43.48:435][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003446s)
+[2026.03.01-04.43.48:460][950]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2026.03.01-04.43.48:465][950]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.43.48:466][950]LogPlayLevel: PIE: World Init took: (0.001816s)
+[2026.03.01-04.43.48:467][950]LogAudio: Display: Creating Audio Device:                 Id: 51, Scope: Unique, Realtime: True
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.43.48:467][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.43.48:467][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.43.48:467][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.43.48:467][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.43.48:467][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.43.48:469][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.43.48:485][950]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.43.48:485][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.43.48:485][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.43.48:485][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.43.48:487][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=51
+[2026.03.01-04.43.48:487][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=51
+[2026.03.01-04.43.48:489][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=51
+[2026.03.01-04.43.48:489][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=51
+[2026.03.01-04.43.48:489][950]LogInit: FAudioDevice initialized with ID 51.
+[2026.03.01-04.43.48:489][950]LogAudio: Display: Audio Device (ID: 51) registered with world 'TestClimb'.
+[2026.03.01-04.43.48:489][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 51
+[2026.03.01-04.43.48:493][950]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.43.48:494][950]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.43.48
+[2026.03.01-04.43.48:494][950]LogWorld: Bringing up level for play took: 0.001316
+[2026.03.01-04.43.48:496][950]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2026.03.01-04.43.48:498][950]PIE: Server logged in
+[2026.03.01-04.43.48:500][950]PIE: Play in editor total start time 0.069 seconds.
+[2026.03.01-04.43.48:544][951]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.43.58:665][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.58:665][554]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.43.58:665][554]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.43.58:665][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.58:668][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.43.58:672][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.43.58:699][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.43.58:699][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 51
+[2026.03.01-04.43.58:699][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=4
+[2026.03.01-04.43.58:701][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=51, StreamState=2
+[2026.03.01-04.43.58:707][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.01-04.43.58:760][555]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2026.03.01-04.44.04:412][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2026.03.01-04.44.07:841][ 56]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.44.07:852][ 56]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.44.07:852][ 56]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.07:856][ 56]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003825s)
+[2026.03.01-04.44.07:856][ 56]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003864s)
+[2026.03.01-04.44.07:884][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2026.03.01-04.44.07:891][ 56]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.44.07:892][ 56]LogPlayLevel: PIE: World Init took: (0.001767s)
+[2026.03.01-04.44.07:892][ 56]LogAudio: Display: Creating Audio Device:                 Id: 52, Scope: Unique, Realtime: True
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.44.07:893][ 56]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.44.07:893][ 56]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.44.07:893][ 56]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.44.07:893][ 56]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.44.07:893][ 56]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.44.07:895][ 56]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.44.07:910][ 56]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.44.07:911][ 56]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.44.07:911][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.44.07:911][ 56]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.44.07:911][ 56]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=52
+[2026.03.01-04.44.07:911][ 56]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=52
+[2026.03.01-04.44.07:913][ 56]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=52
+[2026.03.01-04.44.07:913][ 56]LogInit: FAudioDevice initialized with ID 52.
+[2026.03.01-04.44.07:913][ 56]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=52
+[2026.03.01-04.44.07:913][ 56]LogAudio: Display: Audio Device (ID: 52) registered with world 'TestClimb'.
+[2026.03.01-04.44.07:913][ 56]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 52
+[2026.03.01-04.44.07:917][ 56]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.44.07:918][ 56]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.44.07
+[2026.03.01-04.44.07:919][ 56]LogWorld: Bringing up level for play took: 0.001581
+[2026.03.01-04.44.07:921][ 56]LogOnline: OSS: Created online subsystem instance for: :Context_70
+[2026.03.01-04.44.07:924][ 56]PIE: Server logged in
+[2026.03.01-04.44.07:926][ 56]PIE: Play in editor total start time 0.078 seconds.
+[2026.03.01-04.44.07:969][ 57]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.44.18:275][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.18:275][672]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.18:275][672]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.44.18:275][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.18:279][672]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.44.18:285][672]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.18:310][672]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.44.18:311][672]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 52
+[2026.03.01-04.44.18:311][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=4
+[2026.03.01-04.44.18:312][672]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=52, StreamState=2
+[2026.03.01-04.44.18:317][672]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.18:319][672]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.01-04.44.18:359][673]LogPlayLevel: Display: Destroying online subsystem :Context_70
+[2026.03.01-04.44.24:626][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2026.03.01-04.44.26:412][115]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.44.26:419][115]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.44.26:419][115]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.26:422][115]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003247s)
+[2026.03.01-04.44.26:422][115]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003283s)
+[2026.03.01-04.44.26:449][115]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.01-04.44.26:455][115]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.44.26:457][115]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2026.03.01-04.44.26:457][115]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.44.26:457][115]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.44.26:457][115]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.44.26:457][115]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.44.26:457][115]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.44.26:457][115]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.44.26:460][115]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.44.26:475][115]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.44.26:475][115]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.44.26:475][115]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.44.26:475][115]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.44.26:476][115]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2026.03.01-04.44.26:476][115]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2026.03.01-04.44.26:477][115]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2026.03.01-04.44.26:477][115]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2026.03.01-04.44.26:477][115]LogInit: FAudioDevice initialized with ID 53.
+[2026.03.01-04.44.26:477][115]LogAudio: Display: Audio Device (ID: 53) registered with world 'TestClimb'.
+[2026.03.01-04.44.26:477][115]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 53
+[2026.03.01-04.44.26:482][115]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.44.26:482][115]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.44.26
+[2026.03.01-04.44.26:484][115]LogWorld: Bringing up level for play took: 0.001441
+[2026.03.01-04.44.26:485][115]LogOnline: OSS: Created online subsystem instance for: :Context_71
+[2026.03.01-04.44.26:488][115]PIE: Server logged in
+[2026.03.01-04.44.26:490][115]PIE: Play in editor total start time 0.071 seconds.
+[2026.03.01-04.44.26:531][116]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.44.34:625][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.34:625][598]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.34:625][598]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.44.34:626][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.34:631][598]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.44.34:636][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.34:662][598]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.44.34:662][598]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 53
+[2026.03.01-04.44.34:663][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53, StreamState=4
+[2026.03.01-04.44.34:665][598]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53, StreamState=2
+[2026.03.01-04.44.34:669][598]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.34:671][598]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2026.03.01-04.44.34:716][599]LogPlayLevel: Display: Destroying online subsystem :Context_71
+[2026.03.01-04.44.35:161][625]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.44.35:168][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.44.35:168][625]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.35:171][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003256s)
+[2026.03.01-04.44.35:171][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003291s)
+[2026.03.01-04.44.35:198][625]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2026.03.01-04.44.35:202][625]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.44.35:204][625]LogPlayLevel: PIE: World Init took: (0.001666s)
+[2026.03.01-04.44.35:204][625]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.44.35:204][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.44.35:204][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.44.35:204][625]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.44.35:204][625]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.44.35:204][625]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.44.35:206][625]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.44.35:232][625]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.44.35:232][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.44.35:232][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.44.35:232][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.44.35:232][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2026.03.01-04.44.35:232][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2026.03.01-04.44.35:235][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2026.03.01-04.44.35:235][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2026.03.01-04.44.35:235][625]LogInit: FAudioDevice initialized with ID 54.
+[2026.03.01-04.44.35:235][625]LogAudio: Display: Audio Device (ID: 54) registered with world 'TestClimb'.
+[2026.03.01-04.44.35:235][625]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 54
+[2026.03.01-04.44.35:239][625]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.44.35:241][625]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.44.35
+[2026.03.01-04.44.35:241][625]LogWorld: Bringing up level for play took: 0.001412
+[2026.03.01-04.44.35:242][625]LogOnline: OSS: Created online subsystem instance for: :Context_72
+[2026.03.01-04.44.35:246][625]PIE: Server logged in
+[2026.03.01-04.44.35:248][625]PIE: Play in editor total start time 0.08 seconds.
+[2026.03.01-04.44.35:294][626]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.44.49:385][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.49:385][467]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.44.49:385][467]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.44.49:385][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.49:389][467]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.44.49:395][467]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.44.49:420][467]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.44.49:420][467]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 54
+[2026.03.01-04.44.49:420][467]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54, StreamState=4
+[2026.03.01-04.44.49:422][467]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54, StreamState=2
+[2026.03.01-04.44.49:428][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.01-04.44.49:466][468]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2026.03.01-04.44.57:656][930]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.01-04.46.01:599][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.01-04.46.04:230][655]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.46.04:237][655]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.46.04:237][655]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.04:241][655]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003238s)
+[2026.03.01-04.46.04:241][655]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003275s)
+[2026.03.01-04.46.04:266][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2026.03.01-04.46.04:272][655]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.46.04:275][655]LogPlayLevel: PIE: World Init took: (0.001704s)
+[2026.03.01-04.46.04:275][655]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.46.04:275][655]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.46.04:275][655]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.46.04:275][655]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.46.04:275][655]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.46.04:275][655]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.46.04:277][655]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.46.04:292][655]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.46.04:292][655]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.46.04:292][655]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.46.04:292][655]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.46.04:292][655]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2026.03.01-04.46.04:292][655]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2026.03.01-04.46.04:295][655]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2026.03.01-04.46.04:295][655]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2026.03.01-04.46.04:295][655]LogInit: FAudioDevice initialized with ID 55.
+[2026.03.01-04.46.04:295][655]LogAudio: Display: Audio Device (ID: 55) registered with world 'TestClimb'.
+[2026.03.01-04.46.04:295][655]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 55
+[2026.03.01-04.46.04:300][655]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.46.04:301][655]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.46.04
+[2026.03.01-04.46.04:301][655]LogWorld: Bringing up level for play took: 0.001304
+[2026.03.01-04.46.04:303][655]LogOnline: OSS: Created online subsystem instance for: :Context_73
+[2026.03.01-04.46.04:305][655]PIE: Server logged in
+[2026.03.01-04.46.04:307][655]PIE: Play in editor total start time 0.07 seconds.
+[2026.03.01-04.46.04:347][656]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.46.23:964][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.23:965][828]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.23:965][828]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.46.23:965][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.23:971][828]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.46.23:976][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.24:002][828]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.46.24:002][828]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 55
+[2026.03.01-04.46.24:002][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=4
+[2026.03.01-04.46.24:004][828]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55, StreamState=2
+[2026.03.01-04.46.24:007][828]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.24:010][828]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2026.03.01-04.46.24:051][829]LogPlayLevel: Display: Destroying online subsystem :Context_73
+[2026.03.01-04.46.24:606][862]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.46.24:613][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.46.24:613][862]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.24:617][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003376s)
+[2026.03.01-04.46.24:617][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003409s)
+[2026.03.01-04.46.24:642][862]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.01-04.46.24:646][862]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.46.24:648][862]LogPlayLevel: PIE: World Init took: (0.002056s)
+[2026.03.01-04.46.24:649][862]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.46.24:649][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.46.24:649][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.46.24:649][862]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.46.24:649][862]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.46.24:649][862]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.46.24:651][862]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.46.24:666][862]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.46.24:666][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.46.24:666][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.46.24:666][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.46.24:666][862]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2026.03.01-04.46.24:666][862]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2026.03.01-04.46.24:668][862]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2026.03.01-04.46.24:668][862]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2026.03.01-04.46.24:668][862]LogInit: FAudioDevice initialized with ID 56.
+[2026.03.01-04.46.24:668][862]LogAudio: Display: Audio Device (ID: 56) registered with world 'TestClimb'.
+[2026.03.01-04.46.24:668][862]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 56
+[2026.03.01-04.46.24:672][862]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.46.24:674][862]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.46.24
+[2026.03.01-04.46.24:674][862]LogWorld: Bringing up level for play took: 0.001355
+[2026.03.01-04.46.24:676][862]LogOnline: OSS: Created online subsystem instance for: :Context_74
+[2026.03.01-04.46.24:679][862]PIE: Server logged in
+[2026.03.01-04.46.24:682][862]PIE: Play in editor total start time 0.068 seconds.
+[2026.03.01-04.46.24:723][863]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.46.31:475][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.31:475][263]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.31:475][263]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.46.31:476][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.31:479][263]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.46.31:484][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.31:507][263]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.31:507][263]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 56
+[2026.03.01-04.46.31:507][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=4
+[2026.03.01-04.46.31:509][263]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56, StreamState=2
+[2026.03.01-04.46.31:515][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.01-04.46.31:554][264]LogPlayLevel: Display: Destroying online subsystem :Context_74
+[2026.03.01-04.46.31:942][287]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.46.31:948][287]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.46.31:948][287]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.31:952][287]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003181s)
+[2026.03.01-04.46.31:952][287]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003214s)
+[2026.03.01-04.46.31:977][287]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2026.03.01-04.46.31:980][287]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.46.31:982][287]LogPlayLevel: PIE: World Init took: (0.001592s)
+[2026.03.01-04.46.31:982][287]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.46.31:982][287]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.46.31:982][287]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.46.31:982][287]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.46.31:982][287]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.46.31:982][287]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.46.31:985][287]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.46.31:999][287]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.46.31:999][287]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.46.31:999][287]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.46.31:999][287]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.46.31:999][287]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2026.03.01-04.46.31:999][287]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2026.03.01-04.46.32:001][287]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2026.03.01-04.46.32:001][287]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2026.03.01-04.46.32:001][287]LogInit: FAudioDevice initialized with ID 57.
+[2026.03.01-04.46.32:001][287]LogAudio: Display: Audio Device (ID: 57) registered with world 'TestClimb'.
+[2026.03.01-04.46.32:002][287]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 57
+[2026.03.01-04.46.32:006][287]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.46.32:007][287]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.46.32
+[2026.03.01-04.46.32:008][287]LogWorld: Bringing up level for play took: 0.001311
+[2026.03.01-04.46.32:009][287]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2026.03.01-04.46.32:012][287]PIE: Server logged in
+[2026.03.01-04.46.32:014][287]PIE: Play in editor total start time 0.066 seconds.
+[2026.03.01-04.46.32:052][288]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.46.36:545][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.36:545][554]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.46.36:545][554]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.46.36:545][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.36:549][554]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.46.36:554][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.46.36:581][554]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.46.36:581][554]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 57
+[2026.03.01-04.46.36:581][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57, StreamState=4
+[2026.03.01-04.46.36:584][554]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57, StreamState=2
+[2026.03.01-04.46.36:590][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.01-04.46.36:631][555]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2026.03.01-04.47.06:781][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2026.03.01-04.47.09:251][430]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.47.09:257][430]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.47.09:257][430]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.47.09:260][430]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003209s)
+[2026.03.01-04.47.09:260][430]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003243s)
+[2026.03.01-04.47.09:285][430]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2026.03.01-04.47.09:294][430]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.47.09:296][430]LogPlayLevel: PIE: World Init took: (0.001678s)
+[2026.03.01-04.47.09:297][430]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.47.09:297][430]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.47.09:297][430]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.47.09:297][430]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.47.09:297][430]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.47.09:297][430]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.47.09:299][430]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.47.09:312][430]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.47.09:312][430]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.47.09:312][430]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.47.09:312][430]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.47.09:312][430]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2026.03.01-04.47.09:312][430]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2026.03.01-04.47.09:315][430]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2026.03.01-04.47.09:315][430]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2026.03.01-04.47.09:315][430]LogInit: FAudioDevice initialized with ID 58.
+[2026.03.01-04.47.09:315][430]LogAudio: Display: Audio Device (ID: 58) registered with world 'TestClimb'.
+[2026.03.01-04.47.09:315][430]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2026.03.01-04.47.09:319][430]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.47.09:321][430]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.47.09
+[2026.03.01-04.47.09:321][430]LogWorld: Bringing up level for play took: 0.001305
+[2026.03.01-04.47.09:322][430]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2026.03.01-04.47.09:324][430]PIE: Server logged in
+[2026.03.01-04.47.09:327][430]PIE: Play in editor total start time 0.07 seconds.
+[2026.03.01-04.47.09:367][431]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.47.23:225][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.47.23:225][258]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.47.23:225][258]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.47.23:226][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.47.23:242][258]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.47.23:247][258]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.47.23:270][258]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.47.23:270][258]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2026.03.01-04.47.23:270][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58, StreamState=4
+[2026.03.01-04.47.23:272][258]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58, StreamState=2
+[2026.03.01-04.47.23:276][258]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.47.23:279][258]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2026.03.01-04.47.23:322][259]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2026.03.01-04.47.23:810][288]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.47.23:816][288]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.47.23:817][288]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.47.23:820][288]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003159s)
+[2026.03.01-04.47.23:820][288]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003192s)
+[2026.03.01-04.47.23:844][288]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2026.03.01-04.47.23:848][288]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.47.23:849][288]LogPlayLevel: PIE: World Init took: (0.001606s)
+[2026.03.01-04.47.23:850][288]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.47.23:850][288]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.47.23:850][288]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.47.23:850][288]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.47.23:850][288]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.47.23:850][288]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.47.23:852][288]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.47.23:866][288]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.47.23:867][288]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.47.23:867][288]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.47.23:867][288]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.47.23:867][288]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2026.03.01-04.47.23:867][288]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2026.03.01-04.47.23:869][288]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2026.03.01-04.47.23:869][288]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2026.03.01-04.47.23:869][288]LogInit: FAudioDevice initialized with ID 59.
+[2026.03.01-04.47.23:869][288]LogAudio: Display: Audio Device (ID: 59) registered with world 'TestClimb'.
+[2026.03.01-04.47.23:869][288]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2026.03.01-04.47.23:872][288]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.47.23:875][288]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.47.23
+[2026.03.01-04.47.23:875][288]LogWorld: Bringing up level for play took: 0.001418
+[2026.03.01-04.47.23:877][288]LogOnline: OSS: Created online subsystem instance for: :Context_77
+[2026.03.01-04.47.23:880][288]PIE: Server logged in
+[2026.03.01-04.47.23:882][288]PIE: Play in editor total start time 0.066 seconds.
+[2026.03.01-04.47.23:925][289]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.47.31:185][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.47.31:185][720]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.47.31:185][720]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.47.31:185][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.47.31:189][720]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.47.31:195][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.47.31:221][720]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.47.31:221][720]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2026.03.01-04.47.31:221][720]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59, StreamState=4
+[2026.03.01-04.47.31:222][720]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59, StreamState=2
+[2026.03.01-04.47.31:229][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2026.03.01-04.47.31:278][721]LogPlayLevel: Display: Destroying online subsystem :Context_77
+[2026.03.01-04.47.38:378][112]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2026.03.01-04.47.43:284][382]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2026.03.01-04.47.43:290][382]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2026.03.01-04.47.43:290][382]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.47.43:294][382]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003386s)
+[2026.03.01-04.47.43:294][382]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/TestClimb.TestClimb to /Game/UEDPIE_0_TestClimb.TestClimb (0.003420s)
+[2026.03.01-04.47.43:320][382]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2026.03.01-04.47.43:328][382]LogChaosDD: Creating Chaos Debug Draw Scene for world TestClimb
+[2026.03.01-04.47.43:329][382]LogPlayLevel: PIE: World Init took: (0.001650s)
+[2026.03.01-04.47.43:330][382]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2026.03.01-04.47.43:330][382]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2026.03.01-04.47.43:330][382]LogAudio: Display: AudioDevice MaxSources: 32
+[2026.03.01-04.47.43:330][382]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2026.03.01-04.47.43:330][382]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2026.03.01-04.47.43:330][382]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2026.03.01-04.47.43:332][382]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2026.03.01-04.47.43:346][382]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2026.03.01-04.47.43:346][382]LogAudioMixer: Display: Initializing Sound Submixes...
+[2026.03.01-04.47.43:346][382]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2026.03.01-04.47.43:346][382]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2026.03.01-04.47.43:347][382]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2026.03.01-04.47.43:347][382]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2026.03.01-04.47.43:348][382]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2026.03.01-04.47.43:348][382]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2026.03.01-04.47.43:348][382]LogInit: FAudioDevice initialized with ID 60.
+[2026.03.01-04.47.43:348][382]LogAudio: Display: Audio Device (ID: 60) registered with world 'TestClimb'.
+[2026.03.01-04.47.43:349][382]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 60
+[2026.03.01-04.47.43:352][382]LogLoad: Game class is 'GMB_Climb_C'
+[2026.03.01-04.47.43:354][382]LogWorld: Bringing World /Game/UEDPIE_0_TestClimb.TestClimb up for play (max tick rate 60) at 2026.03.01-12.47.43
+[2026.03.01-04.47.43:355][382]LogWorld: Bringing up level for play took: 0.001283
+[2026.03.01-04.47.43:356][382]LogOnline: OSS: Created online subsystem instance for: :Context_78
+[2026.03.01-04.47.43:359][382]PIE: Server logged in
+[2026.03.01-04.47.43:361][382]PIE: Play in editor total start time 0.071 seconds.
+[2026.03.01-04.47.43:401][383]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.01-04.48.10:777][ 21]LogBlueprintUserMessages: [TriggerOrb_C_5] Destroy
+[2026.03.01-04.48.20:644][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.48.20:644][610]LogWorld: BeginTearingDown for /Game/UEDPIE_0_TestClimb
+[2026.03.01-04.48.20:645][610]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.48.20:645][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.48.20:664][610]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2026.03.01-04.48.20:669][610]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.48.20:693][610]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.01-04.48.20:694][610]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 60
+[2026.03.01-04.48.20:694][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60, StreamState=4
+[2026.03.01-04.48.20:695][610]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60, StreamState=2
+[2026.03.01-04.48.20:699][610]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2026.03.01-04.48.20:702][610]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.01-04.48.20:748][611]LogPlayLevel: Display: Destroying online subsystem :Context_78
+[2026.03.01-04.49.19:091][895]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2026.03.01-04.49.19:106][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/TestClimb_Auto0
+[2026.03.01-04.49.19:107][895]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TestClimb_Auto094DAAC9E43325183FEF001BE8724CE2E.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/TestClimb_Auto0.umap'
+[2026.03.01-04.49.19:108][895]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/TestClimb' took 0.043
+[2026.03.01-04.49.19:108][895]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.043
+[2026.03.01-04.49.19:108][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/Joints/Hinge_Joint_BP] ([2] browsable assets)...
+[2026.03.01-04.49.19:144][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/Joints/Hinge_Joint_BP.Hinge_Joint_BP]
+[2026.03.01-04.49.19:144][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Joints/Hinge_Joint_BP]
+[2026.03.01-04.49.19:166][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/Joints/Hinge_Joint_BP_Auto0
+[2026.03.01-04.49.19:167][895]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Hinge_Joint_BP_Auto0C7DD036941FA751B9B24918FA0C72E1D.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/Joints/Hinge_Joint_BP_Auto0.uasset'
+[2026.03.01-04.49.19:168][895]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/BreakableWall] ([2] browsable assets)...
+[2026.03.01-04.49.19:173][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/BreakableWall.BreakableWall]
+[2026.03.01-04.49.19:174][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BreakableWall]
+[2026.03.01-04.49.19:178][895]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BluePrints/BreakableWall_Auto0
+[2026.03.01-04.49.19:178][895]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/BreakableWall_Auto0CC90D20D4894E398473418BC506D014E.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Autosaves/Game/BluePrints/BreakableWall_Auto0.uasset'
+[2026.03.01-04.49.19:178][895]LogFileHelpers: Auto-saving content packages took 0.071
+[2026.03.01-04.49.57:864][299]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 13820.820312
+[2026.03.01-04.49.58:863][302]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.01-04.49.58:863][302]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 13821.487305, Update Interval: 349.311798
+[2026.03.01-04.51.13:381][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-04.51.13:455][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TestClimb" FILE="../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.01-04.51.13:499][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2026.03.01-04.51.13:514][711]LogSavePackage: Moving output files for package: /Game/TestClimb
+[2026.03.01-04.51.13:515][711]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TestClimbAC9FD3BE401EFB25D3831C9C8C578914.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestClimb.umap'
+[2026.03.01-04.51.13:523][711]LogFileHelpers: Saving map 'TestClimb' took 0.069
+[2026.03.01-04.51.13:542][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 160.858 ms (total: 1.82 sec)
+[2026.03.01-04.51.13:611][711]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.01-04.51.13:611][711]LogContentValidation: Enabled validators:
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-04.51.13:611][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-04.51.13:611][711]AssetCheck: /Game/TestClimb Validating asset
+[2026.03.01-04.51.53:530][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2026.03.01-04.51.54:429][989]LogSlate: Window 'Save Content' being destroyed
+[2026.03.01-04.51.54:465][989]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.01-04.51.54:569][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/BreakableWall] ([2] browsable assets)...
+[2026.03.01-04.51.54:569][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/BreakableWall]
+[2026.03.01-04.51.54:569][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/BreakableWall" FILE="../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/BreakableWall.uasset" SILENT=true
+[2026.03.01-04.51.54:577][989]LogSavePackage: Moving output files for package: /Game/BluePrints/BreakableWall
+[2026.03.01-04.51.54:577][989]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/BreakableWallF7FB4EB5444B2861FA922B80CBED1195.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/BreakableWall.uasset'
+[2026.03.01-04.51.54:581][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BluePrints/Joints/Hinge_Joint_BP] ([2] browsable assets)...
+[2026.03.01-04.51.54:581][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/Joints/Hinge_Joint_BP]
+[2026.03.01-04.51.54:616][989]LogSavePackage: Moving output files for package: /Game/BluePrints/Joints/Hinge_Joint_BP
+[2026.03.01-04.51.54:616][989]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/Hinge_Joint_BP8A0B08334601F8A584C7088069D62228.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Joints/Hinge_Joint_BP.uasset'
+[2026.03.01-04.51.54:617][989]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BluePrints/TriggerOrb] ([2] browsable assets)...
+[2026.03.01-04.51.54:665][989]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BluePrints/TriggerOrb.TriggerOrb]
+[2026.03.01-04.51.54:665][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/BluePrints/TriggerOrb]
+[2026.03.01-04.51.54:665][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BluePrints/TriggerOrb" FILE="../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/TriggerOrb.uasset" SILENT=true
+[2026.03.01-04.51.54:675][989]LogSavePackage: Moving output files for package: /Game/BluePrints/TriggerOrb
+[2026.03.01-04.51.54:676][989]LogSavePackage: Moving '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/TriggerOrb852F080D4A3E1915C11965BF0CA0DA81.tmp' to '../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/TriggerOrb.uasset'
+[2026.03.01-04.51.54:693][989]LogFileHelpers: InternalPromptForCheckoutAndSave took 227.298 ms (total: 2.04 sec)
+[2026.03.01-04.51.54:787][989]LogContentValidation: Display: Starting to validate 3 assets
+[2026.03.01-04.51.54:787][989]LogContentValidation: Enabled validators:
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.01-04.51.54:787][989]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.01-04.51.54:788][989]AssetCheck: /Game/BluePrints/BreakableWall Validating asset
+[2026.03.01-04.51.54:788][989]AssetCheck: /Game/BluePrints/Joints/Hinge_Joint_BP Validating asset
+[2026.03.01-04.51.54:788][989]AssetCheck: /Game/BluePrints/TriggerOrb Validating asset
+[2026.03.01-04.51.54:816][989]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.01-04.51.57:290][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2026.03.01-04.51.57:328][136]LogStall: Shutdown...
+[2026.03.01-04.51.57:328][136]LogStall: Shutdown complete.
+[2026.03.01-04.51.57:350][136]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:350][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:416][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.01-04.51.57:416][136]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:416][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:532][136]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:532][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:539][136]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:539][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:582][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.01-04.51.57:582][136]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:582][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:682][136]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2026.03.01-04.51.57:682][136]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:682][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:771][136]LogSlate: Window 'LevelUI' being destroyed
+[2026.03.01-04.51.57:793][136]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:793][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:801][136]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.57:801][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.57:857][136]LogSlate: Window 'GamePhys_Asgn2 - Unreal Editor' being destroyed
+[2026.03.01-04.51.58:369][136]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2026.03.01-04.51.58:411][136]Cmd: QUIT_EDITOR
+[2026.03.01-04.51.58:411][136]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.03.01-04.51.58:416][137]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.03.01-04.51.58:417][137]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.03.01-04.51.58:417][137]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.03.01-04.51.58:418][137]LogWorld: UWorld::CleanupWorld for TestClimb, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:418][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:427][137]LogStylusInput: Shutting down StylusInput subsystem.
+[2026.03.01-04.51.58:427][137]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.03.01-04.51.58:427][137]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.03.01-04.51.58:440][137]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:440][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:444][137]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:444][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:447][137]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:447][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:449][137]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:449][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:451][137]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:452][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:454][137]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:454][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:456][137]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2026.03.01-04.51.58:456][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.01-04.51.58:459][137]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.03.01-04.51.58:459][137]LogStudioTelemetry: Ended StudioTelemetry Session
+[2026.03.01-04.51.58:462][137]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.03.01-04.51.59:456][137]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.03.01-04.51.59:456][137]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.03.01-04.51.59:456][137]LogAudio: Display: Audio Device unregistered from world 'TestClimb'.
+[2026.03.01-04.51.59:456][137]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.03.01-04.51.59:457][137]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.03.01-04.51.59:459][137]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.03.01-04.51.59:467][137]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.03.01-04.51.59:467][137]LogAudio: Display: Audio Device Manager Shutdown
+[2026.03.01-04.51.59:468][137]LogWindowsTextInputMethodSystem: Activated input method: English (Malaysia) - (Keyboard).
+[2026.03.01-04.51.59:470][137]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.03.01-04.51.59:472][137]LogExit: Preparing to exit.
+[2026.03.01-04.51.59:521][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2026.03.01-04.51.59:530][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:530][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:530][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_null_above_selected_PY.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/align_items_PY.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/rename_items_PY.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/set_bone_reference_pose_PY.set_bone_reference_pose' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/ControlRigWorkflows/workflow_fbik_import_ik_rig_PY.import_ik_rig_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.51.59:531][137]LogPython: Display: Object '/ControlRig/Python/RigHierarchy/add_controls_for_selected_PY.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2026.03.01-04.52.00:232][137]LogEditorDataStorage: Deinitializing
+[2026.03.01-04.52.00:385][137]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.03.01-04.52.00:409][137]LogExit: Editor shut down
+[2026.03.01-04.52.00:414][137]LogExit: Transaction tracking system shut down
+[2026.03.01-04.52.00:618][137]LogExit: Object subsystem successfully closed.
+[2026.03.01-04.52.00:651][137]LogShaderCompilers: Display: Shaders left to compile 0
+[2026.03.01-04.52.00:772][137]LogMemoryProfiler: Shutdown
+[2026.03.01-04.52.00:773][137]LogNetworkingProfiler: Shutdown
+[2026.03.01-04.52.00:773][137]LoadingProfiler: Shutdown
+[2026.03.01-04.52.00:773][137]LogTimingProfiler: Shutdown
+[2026.03.01-04.52.00:773][137]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2026.03.01-04.52.00:773][137]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2026.03.01-04.52.01:141][137]LogChaosDD: Chaos Debug Draw Shutdown
+[2026.03.01-04.52.01:141][137]LogNFORDenoise: NFORDenoise function shutting down
+[2026.03.01-04.52.01:141][137]RenderDocPlugin: plugin has been unloaded.
+[2026.03.01-04.52.01:153][137]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2026.03.01-04.52.01:153][137]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B328036CD-477B-25DE-C0A1-79BACA3F43EC%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=319e109e498fd3f7f69e8192f6824ea7%7Cf08e5bbaf4c64dd09cd9eb2a2338d9e4%7C05c70187-ae72-4d91-86d6-3987fe26d7b7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2026.03.01-04.52.01:689][137]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2026.03.01-04.52.01:697][137]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2026.03.01-04.52.01:697][137]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2026.03.01-04.52.01:697][137]LogPakFile: Destroying PakPlatformFile
+[2026.03.01-04.52.02:849][137]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.03.01-04.52.02:887][137]LogExit: Exiting.
+[2026.03.01-04.52.02:909][137]Log file closed, 03/01/26 12:52:02
