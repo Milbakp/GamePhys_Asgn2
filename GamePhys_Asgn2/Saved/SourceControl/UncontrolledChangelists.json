@@ -201,6 +201,13 @@
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/TestOther.umap",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Models/Bottle.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Bottle_Blueprint.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Joints/DummyMenuHinge.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Level2.umap",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Input/ReleaseLeftHand.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/Joints/Hinge_Joint_Exp.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/UI/LevelUI.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/UI/Win_UI.uasset",
+				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/Level3.umap",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/BluePrints/DummyCharacter_ABP.uasset",
 				"C:/Users/luqma/Documents/GitHub/GamePhys_Asgn2/GamePhys_Asgn2/Content/PlayerController_BP.uasset"
 			]
